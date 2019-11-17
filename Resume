@@ -21,35 +21,45 @@
       <h2>Professional Summary</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae veritatis sed laborum, accusantium ut dolore asperiores ea enim, hic fuga corporis?</p>
       <h2>Employment History</h2>
-      <ul>
-        <li><h3>Google, Inc.</h3>
-          <em>Data Scientist</em>
-          <p>January 2015 - Present</p>
-          <ul>
-            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
-            <li>Id cupiditate, voluptatibus veniam doloribus consectetur quia! Quae, eveniet.</li>
-          </ul>
-        </li>
-        <li><h3>Amazon Web Services</h3>
-        <em>Junior Developer</em>
-        <p>June 2011 - December 2014</p>
-        <ul>
-            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
-            <li>Id cupiditate, voluptatibus veniam doloribus consectetur quia! Quae, eveniet.</li>
-        </ul>
-        </li>
-      </ul>
+        <table style="width:100%">
+            <tr>
+              <th>Company</th>
+              <th>Position</th>
+              <th>Years Worked</th>
+              <th>Job Description</th>
+            </tr>
+            <tr>
+              <td>Google, Inc</td>
+              <td>Data Scientist</td>
+              <td>January 2015-Present</td>
+              <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</td>
+            </tr>
+            <tr>
+              <td>Amazon Web Services</td>
+              <td>Junior Developer</td>
+              <td>June 2011 - December 2014</td>
+              <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</td>
+            </tr>
+        </table>
       <h2>Education</h2>
-      <ul>
-        <li><h3>Definitely Real University</h3>
-        <em>Bachelor of Computer Science</em>
-        <p>August 2009 - May 2011</p>
-        </li>
-        <li><h3>Genuine State School</h3>
-        <em>Associate in Science</em>
-        <p>August 2007 - May 2009</p>
-        </li>
-      </ul>
+      <table style="width:100%">
+        <tr>
+          <th>School</th>
+          <th>Degree</th>
+          <th>Years</th>
+        </tr>
+        <tr>
+          <td>Definitely Real University</td>
+          <td>Bach. of CS</td>
+          <td>August 2009 - May 2011</td>
+        </tr>
+        <tr>
+           <td>Genuine State School</td>
+          <td>Associate in Science</td>
+          <td>August 2007 - May 2009</td>
+        </tr>
+      </table>
+      </section>
     </main>
     <script src="script.js"></script>
   </body>
