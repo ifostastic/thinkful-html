@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="A resume for star student Peter Pupil.">
+    <meta name="viewport" content="width=device-width">
+    <title>Peter Pupil Resume</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header>
+      <img src="https://insognacpa-b814.kxcdn.com/wp-content/uploads/2018/11/Adam-French-Cartoon-Headshot-1024x1024.png" width="100" alt="Peter">
+      <h1>Peter Pupil</h1>
+      <address>
+        <p>321-555-5555 | <a href="mailto:peterpupilfs@gmail.com">peterpupilfs@gmail.com</a></p>
+        <p>1234 Fake Street, Realtown, USA 55123</p>
+      </address>
+    </header>
+    <main>
+      <section>
+      <h2>Professional Summary</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae veritatis sed laborum, accusantium ut dolore asperiores ea enim, hic fuga corporis?</p>
+      <h2>Employment History</h2>
+      <ul>
+        <li><h3>Google, Inc.</h3>
+          <em>Data Scientist</em>
+          <p>January 2015 - Present</p>
+          <ul>
+            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+            <li>Id cupiditate, voluptatibus veniam doloribus consectetur quia! Quae, eveniet.</li>
+          </ul>
+        </li>
+        <li><h3>Amazon Web Services</h3>
+        <em>Junior Developer</em>
+        <p>June 2011 - December 2014</p>
+        <ul>
+            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+            <li>Id cupiditate, voluptatibus veniam doloribus consectetur quia! Quae, eveniet.</li>
+        </ul>
+        </li>
+      </ul>
+      <h2>Education</h2>
+      <ul>
+        <li><h3>Definitely Real University</h3>
+        <em>Bachelor of Computer Science</em>
+        <p>August 2009 - May 2011</p>
+        </li>
+        <li><h3>Genuine State School</h3>
+        <em>Associate in Science</em>
+        <p>August 2007 - May 2009</p>
+        </li>
+      </ul>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
